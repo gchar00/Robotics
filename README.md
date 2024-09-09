@@ -1,6 +1,3 @@
-# Robotics
-Robotic Manipulator with 3 Rotational Degrees of Freedom (DOF)
-
 # Robotic Manipulator with 3 Rotational Degrees of Freedom (DOF)
 
 ## Project Overview
@@ -8,7 +5,6 @@ Robotic Manipulator with 3 Rotational Degrees of Freedom (DOF)
 This project is part of the Robotics I course (2022-2023) and involves the analysis and simulation of a robotic manipulator with three rotational degrees of freedom. The manipulator's motion is analyzed through forward and inverse kinematics, and its trajectory is simulated using MATLAB.
 
 ## Table of Contents
-- [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Simulation Tasks](#simulation-tasks)
 - [Installation](#installation)
@@ -46,4 +42,5 @@ Using MATLAB, the following tasks are simulated:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/gchar00/Robotics.git
+
